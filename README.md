@@ -1,1 +1,1 @@
-# sharing-github
+Hi, this is the first project that I create for github. I extracted total snow fall and rain fall amount for the year 2016-2020 and formed a dataframe. And then visualized the dataframe in a barchart.
